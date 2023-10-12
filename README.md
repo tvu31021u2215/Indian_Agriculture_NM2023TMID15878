@@ -3,5 +3,4 @@ Dashboard public link-https://public.tableau.com/app/profile/nathiya.venkatesan/
 
 story public link - https://public.tableau.com/app/profile/nathiya.venkatesan/viz/NMSTORY_16963857359530/Story1
 
-video demonstration link -https://drive.google.com/file/d/1_lwceuI9Ih6__Pd0RNl3UDRTukRxKfe0/view?pli=1
-VID-20231011-WA0023.mp4 
+video demonstration link -https://drive.google.com/file/d/1_lwceuI9Ih6__Pd0RNl3UDRTukRxKfe0/view?pli=1 
